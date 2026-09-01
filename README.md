@@ -269,3 +269,10 @@ The project shows how marketing data can be transformed into actionable insights
 **Marketing Campaign Performance Analysis**
 
 **Excel for Data Analysis — Nimca Wehliye**
+## 📸 Project Screenshots
+
+### 🧹 Clean Data
+![Clean Data](screenshots/Clean%20data.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dhashpoard%202.png)
