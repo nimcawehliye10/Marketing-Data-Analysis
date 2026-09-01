@@ -278,7 +278,8 @@ The project shows how marketing data can be transformed into actionable insights
 ![Dashboard](screenshots/Dhashpoard%202.png)## 📸 Project Screenshots
 
 
-
+### 📈 Pivot Tables
+![Pivot Tables](screenshots/pivot%20tables.png)
 
 
 
