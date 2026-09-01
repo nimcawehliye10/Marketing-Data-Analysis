@@ -288,8 +288,6 @@ The project shows how marketing data can be transformed into actionable insights
 
 
 
-### 📊 Dashboard 2
-![Dashboard 2](screenshots/Dhashpoard%202.png)## 📸 Project Screenshots
 
 
 
